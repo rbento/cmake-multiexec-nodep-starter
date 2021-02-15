@@ -2,7 +2,7 @@
 
 ### About 
 
-Template for CMake projects that are bare minimal without any dependencies and are expected to generate one separate executable per C source file
+Template for CMake projects that are bare minimal, without any dependencies and which are expected to generate one separate executable per C source file
 
 - Useful for projects containing multiple distinct code examples
 
