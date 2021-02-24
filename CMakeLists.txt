@@ -2,6 +2,8 @@
 
 project ("project-name")
 
+set(CXX_STANDARD 17) # Supported values are 98, 11, 14, 17, 20, 23
+
 add_definitions(-D_CRT_SECURE_NO_WARNINGS)
 
 file(GLOB SOURCE_FILES *.c)
