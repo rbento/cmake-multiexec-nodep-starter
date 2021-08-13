@@ -1,6 +1,7 @@
-# cmake-multiexec-nodep
+# cmake-multiexec-nodep-starter
 
 ### About 
+---
 
 Template for CMake projects that are bare minimal, without any dependencies and which are expected to generate one separate executable per C source file
 
@@ -9,6 +10,7 @@ Template for CMake projects that are bare minimal, without any dependencies and 
 - Each C source file is expected to have an entry point
 
 ### Usage
+---
 
 - Update project name in `CMakeLists.txt`
 
